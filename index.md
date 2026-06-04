@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Version: V1.0  
+Version: V2.0  
 Effective Date: 2026-05-28  
 App: Therapist Assistant
 
@@ -64,7 +64,7 @@ This Policy is governed by applicable U.S. federal law and the laws of the State
 
 # 隐私政策（Privacy Policy）
 
-版本：V1.0  
+版本：V2.0  
 生效日期：2026-05-28  
 适用应用：按摩师助理（Therapist Assistant）
 
@@ -123,4 +123,5 @@ This Policy is governed by applicable U.S. federal law and the laws of the State
 ## 11. 法律适用
 
 本政策受适用的美国联邦法律及科罗拉多州法律管辖（不含冲突规范）。
+
 
